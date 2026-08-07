@@ -1078,3 +1078,8 @@ The immediate implementation objective is therefore to establish the exact relat
 5. the resulting multihash/CID.
 
 This provides the foundation for subsequent work on CPB and AAC composition.
+
+
+### Feedback 
+
+Please reach out to manu@libp2p.io and johanna@libp2p.io for any question, thoughts and feedback. We are collaborating with Steven Mih on developing a composable trust spec by focusing on VTO x CBP X AAC.
